@@ -1,0 +1,21 @@
+.header-list {
+  display: inline;
+  list-style-type: none;
+  padding-inline-start: 0px;
+  font-size: 20px;
+}
+h2 {
+  font-size: 20px;
+}
+.top-icon {
+  text-align: center;
+  font-size: 60px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  width: 500px;
+}
+
+ul {
+  list-style-type: none;
+}
